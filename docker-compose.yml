@@ -1,0 +1,5 @@
+SwiftEnv:
+  image: ibmcom/swift-ubuntu:latest
+  volumes:
+    - .:/root/SwiftEnv
+  command: bash -c "cd /root/SwiftEnv && swift build && swift test"
