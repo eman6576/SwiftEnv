@@ -15,7 +15,7 @@ An easy to use interface for accessing environment variables with Swift
 
 You can add this to your `Package.swift` manifest with
 ```swift
-.package(url: "https://github.com/mxcl/PromiseKit.git", from: "1.0.0")
+.package(url: "https://github.com/eman6576/SwiftEnv.git", from: "1.0.0")
 ```
 
 ## Usage
@@ -57,7 +57,7 @@ let ENV = SwiftEnv()
 // Remove value for key `TEST_MODE` using method
 ENV.removeValueForEnvironmentVariable("TEST_MODE") = nil
 
-// Remove value for key `BUILD_MODE` using method
+// Remove value for key `BUILD_MODE` using subscript
 ENV["BUILD_MODE"] = nil
 ```
 
