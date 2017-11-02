@@ -1,4 +1,4 @@
-![SwiftEnv: Easy Accessing To Enviroment Variables](https://raw.githubusercontent.com/eman6576/SwiftEnv/master/swiftenv.jpg)
+![SwiftEnv: Easy Access To Enviroment Variables](https://raw.githubusercontent.com/eman6576/SwiftEnv/master/swiftenv.jpg)
 
 [![Build Status](https://travis-ci.org/eman6576/SwiftEnv.svg?branch=master)](https://travis-ci.org/eman6576/SwiftEnv)
 [![codecov](https://codecov.io/gh/eman6576/SwiftEnv/branch/master/graph/badge.svg)](https://codecov.io/gh/eman6576/SwiftEnv)
