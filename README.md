@@ -1,4 +1,4 @@
-![SwiftEnv: Elegant Networking in Swift](https://raw.githubusercontent.com/eman6576/SwiftEnv/master/swiftenv.jpg)
+![SwiftEnv: Easy Accessing To Enviroment Variables](https://raw.githubusercontent.com/eman6576/SwiftEnv/master/swiftenv.jpg)
 
 [![Build Status](https://travis-ci.org/eman6576/SwiftEnv.svg?branch=master)](https://travis-ci.org/eman6576/SwiftEnv)
 [![codecov](https://codecov.io/gh/eman6576/SwiftEnv/branch/master/graph/badge.svg)](https://codecov.io/gh/eman6576/SwiftEnv)
@@ -15,7 +15,7 @@ An easy to use interface for accessing environment variables with Swift
 
 You can add this to your `Package.swift` manifest with
 ```swift
-.package(url: "https://github.com/eman6576/SwiftEnv.git", from: "1.0.0")
+.package(url: "https://github.com/eman6576/SwiftEnv.git", from: "1.1.0")
 ```
 
 ## Usage
